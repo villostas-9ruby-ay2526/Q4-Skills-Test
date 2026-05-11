@@ -10,5 +10,7 @@ var password = document.getElementById("passingword").value;
     }
     else {
         result = "wrong";
-    }
+    
+    window.location.href = "notebooks.html";
+}
 
