@@ -1,0 +1,10 @@
+
+.row1, row2{
+    display: flex;
+}
+
+.background{
+    background-image: url("white.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
